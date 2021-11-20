@@ -93,7 +93,6 @@ body {
 }
 
 .idea-3 strong {
-  font-size: 10px;
   padding: 3px 5px;
   border-radius: 3px;
   display: inline-block;
@@ -127,7 +126,7 @@ body {
   position: absolute;
   width: 80px;
   top: -35px;
-  left: 60%;
+  left: 80%;
   /* transform: scale(0.1); */
 }
 
@@ -236,25 +235,25 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 60%;
+    left: 80%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 57%;
+    left: 77%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 52%;
+    left: 72%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 52%;
+    left: 72%;
   }
 }
 
